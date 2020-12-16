@@ -1,1 +1,1 @@
-# Ising 2D MMC
+# Ising Metropolis Monte Carlo
